@@ -153,7 +153,7 @@ const Home: React.FC = () => {
 
                 <div className="flex flex-col sm:flex-row gap-6">
                   <Link
-                    to="/signup1"
+                    to="/signup"
                     className="group bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 text-white px-10 py-4 rounded-xl font-semibold transition-all duration-300 flex items-center justify-center shadow-2xl hover:shadow-blue-500/25 hover:scale-105"
                   >
                     Start Your Journey
